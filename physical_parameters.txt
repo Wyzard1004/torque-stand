@@ -1,0 +1,3 @@
+Lever Arm Length: 0.33
+Inertia Arm: 0.001730
+Inertia Weight (500g weight): 0.05588805
