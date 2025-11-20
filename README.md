@@ -25,7 +25,7 @@ The system uses a "dumb firmware, smart GUI" architecture: the Arduino streams r
 ## Hardware Components & Wiring
 
 - **Arduino Nano ESP32**
-- **Servo Motor**: Signal Pin → D3 (Requires external 5V power!)
+- **Servo Motor**: Signal Pin → D3 (Requires external 7.4v power!)
 - **Load Cell & HX711**:
   - DOUT → D5
   - SCK → D6
